@@ -1,0 +1,13 @@
+*.class
+
+# Eclipse #
+.metadata
+
+# IDEA #
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.out
